@@ -7,7 +7,7 @@ import { appSt } from "../style.css.ts";
 export const ThxLayout = () => {
   const submit = () => {
     window.gtag("event", "4872_get_sub", {
-      variant_name: "4872_1",
+      variant_name: "4872_4",
     });
   };
 
